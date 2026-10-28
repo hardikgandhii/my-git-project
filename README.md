@@ -1,3 +1,3 @@
-This is my first git project - Git Basics
-Hello , Myself Hardik Gandhi 
+This is my git project - Git Basics
+Hello , Myself Hardik Gandhi
 
